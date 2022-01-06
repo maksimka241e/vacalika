@@ -1,0 +1,31 @@
+ body{
+    background: rgb(53, 155, 79);
+    font-family: fantasy;
+ }
+ .dava p {
+     color: rgba(5, 27, 148, 0.561);
+    
+ }
+ .mvm {
+     color:rgb(255, 255, 255)
+ }
+
+.vmv{
+    color: snow;
+}
+.wmw{
+color: rgba(0, 13, 131, 0.561);
+}
+.wccc{
+    color: snow
+}
+.container{
+    max-width:1000px ;
+    margin: auto;
+    padding: 15px;
+}
+
+
+.ewe{
+    color:snow
+}
